@@ -1,4 +1,7 @@
-baseURL: https://example.org/
-locale: en-us
-title: My New Hugo Project
+baseURL: https://msdn-znl.github.io/
+locale: id-id
+title: msdn-znl Personal Blog
 theme: [PaperMod]
+caches:
+  images:
+    dir: :cacheDir/images
